@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "name": "Rony Talukder",
+    "picture": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_1200,q_50/lsci/db/PICTURES/CMS/356900/356986.jpg",
+    "price": 100,
+    "ratings": "5star",
+    "nationaluty": "bangladeshi",
+    "discription":"The Central Contracts by BCB all the 17 players who got are divided into Category A, B, A+, and Rookie categories."
+  },
+  {
+    "id": 2,
+    "name": "Liton Kumar Das",
+    "picture": "https://c8.alamy.com/comp/2ECB8YW/cricket-icc-cricket-world-cup-warm-up-match-bangladesh-v-india-cardiff-wales-stadium-cardiff-britain-may-28-2019-bangladeshs-liton-das-in-action-action-images-via-reuterspeter-cziborra-2ECB8YW.jpg",
+    "price": 120,
+    "ratings": "5star",
+    "nationaluty": "bangladeshi",
+    "discription":"The Central Contracts by BCB all the 17 players who got are divided into Category A, B, A+, and Rookie categories."
+  },
+  {
+    "id": 3,
+    "name": "Najmul Hossaun Shanto",
+    "picture": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/355300/355370.jpg",
+    "price": 100,
+    "ratings": "5star",
+    "nationaluty": "bangladeshi",
+    "discription":"The Central Contracts by BCB all the 17 players who got are divided into Category A, B, A+, and Rookie categories."
+  },
+  {
+    "id": 4,
+    "name": "Taehid Hridoy",
+    "picture": "https://www.kalerkantho.com/_next/image?url=http%3A%2F%2Fecdn.kalerkantho.com%2Fpublic%2Fnews_images%2F2023%2F03%2F18%2F1679140582-60b293939fa69f0375955cfa83452d05.jpg&w=1920&q=100",
+    "price": 90,
+    "ratings": "5star",
+    "nationaluty": "bangladeshi",
+    "discription":"The Central Contracts by BCB all the 17 players who got are divided into Category A, B, A+, and Rookie categories."
+  },
+  {
+    "id": 5,
+    "name": "Shakib Al Hasan",
+    "picture": "https://www.mykhel.com/img/2018/08/shakib-cropped_4b13687a93tq1fl1e38iulmd7.jpg",
+    "price": 130,
+    "ratings": "5star",
+    "nationaluty": "bangladeshi",
+    "discription":"The Central Contracts by BCB all the 17 players who got are divided into Category A, B, A+, and Rookie categories."
+  },
+  {
+    "id": 6,
+    "name": "Shamim Hossain Patwari",
+    "picture": "https://www.bssnews.net/assets/news_photos/2023/03/02/image-113477-1677770317.jpg",
+    "price": 90,
+    "ratings": "5star",
+    "nationaluty": "bangladeshi",
+    "discription":"The Central Contracts by BCB all the 17 players who got are divided into Category A, B, A+, and Rookie categories."
+  },
+  {
+    "id": 7,
+    "name": "Mehedi Hasan Miraz",
+    "picture": "https://media.gettyimages.com/id/1153241458/photo/mehedi-hasan-of-bangladesh-clebrates-taking-the-wicket-of-faf-du-plessis-during-the-group.jpg?s=612x612&w=0&k=20&c=dClcW_Jm3A-mhrcN96UC0P8a64U5A--s-5b0CMB-zxo=",
+    "price": 100,
+    "ratings": "5star",
+    "nationaluty": "bangladeshi",
+    "discription":"The Central Contracts by BCB all the 17 players who got are divided into Category A, B, A+, and Rookie categories."
+  },
+  {
+    "id": 8,
+    "name": "Taskin Ahmmed",
+    "picture": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/318000/318077.4.jpg",
+    "price": 110,
+    "ratings": "5star",
+    "nationaluty": "bangladeshi",
+    "discription":"The Central Contracts by BCB all the 17 players who got are divided into Category A, B, A+, and Rookie categories."
+  },
+  {
+    "id": 9,
+    "name": "Nasum Ahammed",
+    "picture": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_1200,q_50/lsci/db/PICTURES/CMS/318600/318618.jpg",
+    "price": 90,
+    "ratings": "5star",
+    "nationaluty": "bangladeshi",
+    "discription":"The Central Contracts by BCB all the 17 players who got are divided into Category A, B, A+, and Rookie categories."
+  },
+  {
+    "id": 10,
+    "name": "Hasan Mahmud",
+    "picture": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_1200,q_50/lsci/db/PICTURES/CMS/350500/350581.jpg",
+    "price": 95,
+    "ratings": "5star",
+    "nationaluty": "bangladeshi",
+    "discription":"The Central Contracts by BCB all the 17 players who got are divided into Category A, B, A+, and Rookie categories."
+  },
+  {
+    "id": 11,
+    "name": "MustaFizur Rohoman",
+    "picture": "https://pbs.twimg.com/media/FMNrDdZaAAEBmRP?format=jpg&name=large",
+    "price": 110,
+    "ratings": "5star",
+    "nationaluty": "bangladeshi",
+    "discription":"The Central Contracts by BCB all the 17 players who got are divided into Category A, B, A+, and Rookie categories."
+  },
+  {
+    "id": 12,
+    "name": "Shoriful Islam",
+    "picture": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_1200,q_50/lsci/db/PICTURES/CMS/336300/336327.jpg",
+    "price": 900,
+    "ratings": "5star",
+    "nationaluty": "bangladeshi",
+    "discription":"The Central Contracts by BCB all the 17 players who got are divided into Category A, B, A+, and Rookie categories."
+  }
+]
